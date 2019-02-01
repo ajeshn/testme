@@ -1,1 +1,1 @@
-learn abc of git
+understand abc of git
